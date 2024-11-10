@@ -1,5 +1,5 @@
 import { Image, MapPin, Plane, Search } from 'lucide-react'
-import { Avatar } from './Avatar'
+import { Avatar } from './Image'
 
 export function Header() {
   return (
