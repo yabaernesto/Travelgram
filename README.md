@@ -8,4 +8,4 @@ HTML e CSS. Achei o projeto legal e resolvi emigrar para React.
 - TypeScript
 - TailwindCSS
 
-Repositório do projeto feito em HTML e CSS: https://github.com/joao-sillva/local-turistico
+Repositório do projeto feito em HTML e CSS: https://github.com/joao-sillva/travelgram
