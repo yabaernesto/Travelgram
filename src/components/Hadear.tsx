@@ -1,5 +1,6 @@
 import { Image, MapPin, Plane, Search } from 'lucide-react'
 import { Avatar } from './Image'
+import { Anchor } from './Anchor'
 
 export function Header() {
   return (
@@ -11,18 +12,18 @@ export function Header() {
           <Search className="h-6 w-6 hover:text-red-600 text-gray-500 cursor-pointer" />
 
           <div className="px-4 space-x-4">
-            <a
-              href="#"
+            <Anchor
+              url="#"
               className="h-6 w-6 text-gray-500 text-lg font-medium hover:text-red-600 cursor-pointer"
             >
               Explorar
-            </a>
-            <a
-              href="#"
+            </Anchor>
+            <Anchor
+              url="#"
               className="h-6 w-6 text-gray-500 text-lg font-medium hover:text-red-600 cursor-pointer"
             >
               Minhas Viagens
-            </a>
+            </Anchor>
           </div>
 
           <Avatar
