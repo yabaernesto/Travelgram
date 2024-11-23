@@ -6,7 +6,7 @@ HTML e CSS. Achei o projeto legal e resolvi emigrar para React.
 ## UI
 
 <div align="center">
-  <img src=".github/preview.png" alt="preview" width="500">
+  <img src=".github/preview.png" alt="preview">
 </div>
 
 ### Techs
